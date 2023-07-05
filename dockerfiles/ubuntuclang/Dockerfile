@@ -1,7 +1,7 @@
 # © 2016 and later: Unicode, Inc. and others.
 # License & terms of use: http://www.unicode.org/copyright.html
 
-FROM ubuntu:latest
+FROM ubuntu:22.10
 MAINTAINER Steven R. Loomis <srl@icu-project.org>
 
 USER root
