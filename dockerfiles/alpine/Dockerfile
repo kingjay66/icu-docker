@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.18.5
 
 USER root
 ENV HOME /home/build
